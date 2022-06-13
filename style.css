@@ -124,7 +124,6 @@ body{
 @media screen and (max-width:500px) {
     
     img{
-        width: 200px;
     position: relative;
     top: -34em;
     display: flex;
